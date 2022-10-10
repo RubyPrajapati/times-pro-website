@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: fit-content;
+}
+.img{
+    height: 70px;
+    width: 80px;
+}
+.fa{
+    position: relative;
+    left: -39px;
+    top: 8px;
+    
+}
+.first:hover{
+    color: white;
+}
+/* Google Font CDN Link */
+.dropdown-item a:hover{
+   background-color: rgb(218, 60, 60);
+}
+.img1{
+  height: 500px;
+}
+.card-img-top{
+    height: 300px;
+    width: auto;
+}
+.card1{
+    height: 300px;
+}
+.carousel-inner {
+    padding: 0em;
+  }
+  .card {
+    margin: 0 0.5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: 2 solid red;
+  }
+ .heading{
+  margin-left: 550px;
+  font-size: 20px;
+ }
+ .heading a:hover{
+  color: red;
+ }
+ .link{
+  margin-left: 50px;
+ }
+ .link:hover{
+   color: red;
+ }
+ .timesgroup:hover{
+  color: red;
+ }
+ .footer1 :hover{
+  color: blue;
+ }
